@@ -1,0 +1,28 @@
+.detailsBtn {
+  padding: 5px 10px;
+  background-color: gray;
+  color: honeydew;
+  border-radius: 3px;
+  margin-left: 5px;
+  border: none;
+  outline-color: hotpink;
+}
+.dynamicP,
+#input-container {
+  background-color: rgb(194, 205, 218);
+  padding: 10px;
+  max-width: 30%;
+  display: flex;
+  justify-content: space-around;
+}
+.data-name {
+  color: limegreen;
+  font-size: 25px;
+}
+.load-btn {
+  padding: 8px 14px;
+  border-radius: 3px;
+  border: none;
+  outline-color: hotpink;
+  box-shadow: 5px 5px 5px;
+}
